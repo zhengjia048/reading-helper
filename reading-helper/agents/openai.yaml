@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reading Helper 英语精读导师"
+  short_description: "粘贴英文原文，按固定结构输出三步精读引导、逐段语言点与阅读理解题"
+  default_prompt: "使用 $reading-helper 精读这段英文原文，完整输出学习概览、三步层级阅读引导、逐段核心语言点提取、5 道阅读理解题和质量自检。"
